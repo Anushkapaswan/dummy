@@ -1,0 +1,49 @@
+*{
+    /* margin:0;
+     padding:0; */
+    box-sizing: border-box;
+}
+.outter-box{
+    width:600px;
+    height:600px;
+    background-color:#CBE4DE ;
+    margin:0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.inner-box{
+    position: relative;
+    justify-content: center;
+    align-items:center;
+    margin:60px;
+    margin-top:40px;
+}
+.footer{
+    background-color:#d38219;
+    border-radius: 5px;
+    color:black;
+    width:200px;
+    text-align:center;
+    justify-content: center;
+    align-content: center;
+    margin:50px auto;
+    
+}
+.footer:hover{
+    background-color:#FF9D23;
+    cursor:pointer;
+}
+.cvv{
+    margin-left:70px;
+}
+.content{
+    justify-content: center;
+    align-items:center;
+    margin-top:30px;
+    padding:40px;
+}
+
+.footer:hover{
+    color:black;
+
+}
